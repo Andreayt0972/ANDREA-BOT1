@@ -14,10 +14,6 @@ AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PART
 > https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 ```
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
-
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
@@ -86,7 +82,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-https://github.com/Andreayt0972/ANDREA-BOT1/blob/master/Menu.jpg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
+https://github.com/Andreayt0972) 
 
 `ANDREA - Bot __________ By ANDREA BB`
 
