@@ -26,7 +26,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Andreayt0972/ANDREA-BOT1/
+> git clone https://github.com/Andreayt0972/ANDREA-BOT1
 > cd ANDREA-BOT1
 > npm install
 > yarn install 
