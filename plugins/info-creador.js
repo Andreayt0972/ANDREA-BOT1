@@ -1,7 +1,7 @@
 import fs from 'fs'
 function handler(m, { conn }) {
 let text = `
-*—◉ LOS NUMEROS DEL TEMA TAINUX 𝙴𝚂 wa.me/573125484672 OWNER PRINCIPAL ANDREA wa.me/573161901631ANTONIO TEAM TAINUX *
+*—◉ LOS NUMEROS DEL TEAM TAINUX 𝙴𝚂 wa.me/573125484672 OWNER PRINCIPAL ANDREA wa.me/573161901631ANTONIO TEAM TAINUX *
 `.trim()   
 conn.reply(m.chat, text, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
