@@ -3,8 +3,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['573125484672', '👑 ANDREA - Creador 👑', true],
-  ['59172945992', ' es un amigo - xd ', true],
+  ['573125484672', '👑 ANDREA - Creadora 👑', true],
+  ['573161901631', ' TEAM TAINUX - Antonio ', true],
   [''],
   ['']
 ] // Cambia los numero que quieras
