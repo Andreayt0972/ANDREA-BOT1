@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 
 global.owner = [
   ['573125484672', '👑 ANDREA - Creadora 👑', true],
-  ['573161901631', ' TEAM TAINUX - Antonio ', true],
+  ['', '  ', true],
   [''],
   ['']
 ] // Cambia los numero que quieras
